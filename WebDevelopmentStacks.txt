@@ -1,0 +1,56 @@
+C- web development stacks
+
+
+1- state all the web application parts and services
+
+.net
+java
+python
+mern
+c#
+
+2- state all the web stacks that you know and compare between them : where to use, when to use, features
+
+.net
+where to use: Microsoft web server
+when to use: for developing complex web applications such as: online banking systems and larg scale e-commerce sites
+features:
+-very lightweight and can run on windows and linux
+-secure, scalable and moderen web application
+-reliable, and high performance application platform
+
+jave
+where to use: enterprise software, mobile app development, web apps, games, IOT applications, cloud-based applications
+when to use: use to make web pages interactive. it's a programming language that allows you to implement dynamic features on web page.
+features:
+-popular for enterprise application
+-platform independent
+secure and high performance
+
+python
+where to use: data analytics, instagram, facebook, AI and data realms
+when to use: use to createa variety of different programs and used to build websites and software, automate tasks, and conduct data analysis.
+features:
+-fastest growing languages
+-easy to uses
+-has many moderen and powerful features
+
+mern
+where to use: content management systems (CMS), MongoDB, Netflix, UberEats, Airbnb
+when to use: to ability use code on browsers and servers simultaneously, and full-stack development option. it's flexibility and performance in developing interactive user interfaces.
+features: 
+-its flexibility and performance in developing interactive user interfaces
+-ability to use code on browsers and servers simultaneously 
+-full-stack development option
+-free
+
+
+
+
+3- state all the tools of development that are used in .Net stack
+Net core
+Net framework
+ASP
+Xamarin 
+UWP
+Blazor applications
