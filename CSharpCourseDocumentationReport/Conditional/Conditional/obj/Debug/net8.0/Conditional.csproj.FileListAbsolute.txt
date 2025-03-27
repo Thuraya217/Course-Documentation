@@ -1,0 +1,15 @@
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\bin\Debug\net8.0\Conditional.exe
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\bin\Debug\net8.0\Conditional.deps.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\bin\Debug\net8.0\Conditional.runtimeconfig.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\bin\Debug\net8.0\Conditional.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\bin\Debug\net8.0\Conditional.pdb
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfoInputs.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfo.cs
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.sourcelink.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\refint\Conditional.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.pdb
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\Conditional.genruntimeconfig.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\Conditional\Conditional\obj\Debug\net8.0\ref\Conditional.dll

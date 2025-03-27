@@ -1,0 +1,15 @@
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.AssemblyInfoInputs.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.AssemblyInfo.cs
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.sourcelink.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\bin\Debug\net8.0\ArrayDataStructure.exe
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\bin\Debug\net8.0\ArrayDataStructure.deps.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\bin\Debug\net8.0\ArrayDataStructure.runtimeconfig.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\bin\Debug\net8.0\ArrayDataStructure.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\bin\Debug\net8.0\ArrayDataStructure.pdb
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\refint\ArrayDataStructure.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.pdb
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ArrayDataStructure.genruntimeconfig.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArrayDataStructure\ArrayDataStructure\obj\Debug\net8.0\ref\ArrayDataStructure.dll

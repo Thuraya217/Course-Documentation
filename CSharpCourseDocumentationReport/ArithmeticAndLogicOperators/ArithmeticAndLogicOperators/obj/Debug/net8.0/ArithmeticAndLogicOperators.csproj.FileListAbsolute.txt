@@ -1,0 +1,15 @@
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\bin\Debug\net8.0\ArithmeticAndLogicOperators.exe
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\bin\Debug\net8.0\ArithmeticAndLogicOperators.deps.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\bin\Debug\net8.0\ArithmeticAndLogicOperators.runtimeconfig.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\bin\Debug\net8.0\ArithmeticAndLogicOperators.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\bin\Debug\net8.0\ArithmeticAndLogicOperators.pdb
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.AssemblyInfoInputs.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.AssemblyInfo.cs
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.csproj.CoreCompileInputs.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.sourcelink.json
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\refint\ArithmeticAndLogicOperators.dll
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.pdb
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ArithmeticAndLogicOperators.genruntimeconfig.cache
+C:\Users\CodeLine\Desktop\New folder (2)\CSharpCourseDocumentationReport\ArithmeticAndLogicOperators\ArithmeticAndLogicOperators\obj\Debug\net8.0\ref\ArithmeticAndLogicOperators.dll

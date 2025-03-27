@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2j7NC4FKZls=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CodeLine\\Desktop\\New folder (2)\\CSharpCourseDocumentationReport\\ConditionalStatements\\ConditionalStatements\\ConditionalStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CodeLine\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
